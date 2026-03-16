@@ -1,20 +1,91 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+College Library Management System
+Project Overview
 
-# Run and deploy your AI Studio app
+The College Library Management System is a web-based application designed to simplify and automate the management of library resources in a college. The system allows administrators to manage books, track issued books, and maintain student records efficiently.
 
-This contains everything you need to run your app locally.
+Features
 
-View your app in AI Studio: https://ai.studio/apps/9c7e2bf0-3293-4b29-8e8d-5ab1a1eb7ed5
+Add, update, and delete books
 
-## Run Locally
+Search books by title, author, or category
 
-**Prerequisites:**  Node.js
+Issue books to students
 
+Return books and update availability
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Manage student records
+
+Track issued and returned books
+
+Admin login for secure access
+
+Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: (Add if used – Java / Node.js / PHP)
+
+Database: (MySQL / Supabase / etc.)
+
+Deployment: (If deployed)
+
+System Modules
+
+Admin Module
+
+Add and manage books
+
+Issue and return books
+
+Manage student records
+
+Book Management
+
+Add new books
+
+Edit book details
+
+Delete books
+
+Check book availability
+
+Student Management
+
+Add student details
+
+Track issued books
+
+Issue & Return Module
+
+Issue books to students
+
+Update return status
+
+Maintain issue records
+
+How to Run the Project
+
+Download or clone the repository
+
+Open the project folder
+
+Configure the database
+
+Run the project using the appropriate server
+
+Example:
+
+git clone https://github.com/yourusername/library-management-system
+Future Improvements
+
+Online book reservation
+
+Email notifications for due dates
+
+Student login portal
+
+Fine calculation for late returns
+
+Author
+
+Jayakrishna Jangam

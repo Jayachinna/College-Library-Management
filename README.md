@@ -1,91 +1,61 @@
-College Library Management System
-Project Overview
+📚 College Library Management System
 
-The College Library Management System is a web-based application designed to simplify and automate the management of library resources in a college. The system allows administrators to manage books, track issued books, and maintain student records efficiently.
+The College Library Management System is a web application designed to manage library operations efficiently. It helps in organizing books, managing student records, and tracking issued and returned books.
 
 Features
 
-Add, update, and delete books
+Add new books to the library
 
-Search books by title, author, or category
+Update book details
+
+Delete books
+
+Search books by title or author
 
 Issue books to students
 
 Return books and update availability
 
-Manage student records
+Track issued books
 
-Track issued and returned books
-
-Admin login for secure access
-
-Technologies Used
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: (Add if used – Java / Node.js / PHP)
-
-Database: (MySQL / Supabase / etc.)
-
-Deployment: (If deployed)
-
-System Modules
+Modules
 
 Admin Module
 
-Add and manage books
+Manage books
 
-Issue and return books
+Issue books to students
 
-Manage student records
+Return books
 
 Book Management
 
-Add new books
+Add books
 
 Edit book details
 
 Delete books
 
-Check book availability
-
 Student Management
 
-Add student details
+Add student records
 
 Track issued books
 
-Issue & Return Module
-
-Issue books to students
-
-Update return status
-
-Maintain issue records
-
-How to Run the Project
+How to Run
 
 Download or clone the repository
 
+git clone https://github.com/Jayachinna/college-library-management-system
+
 Open the project folder
 
-Configure the database
-
-Run the project using the appropriate server
-
-Example:
-
-git clone https://github.com/yourusername/library-management-system
-Future Improvements
-
-Online book reservation
-
-Email notifications for due dates
-
-Student login portal
-
-Fine calculation for late returns
+Run the project using a browser or local server
 
 Author
 
 Jayakrishna Jangam
+
+GitHub: https://github.com/Jayachinna
+
+LinkedIn: https://www.linkedin.com/in/jayakrishna-jangam/

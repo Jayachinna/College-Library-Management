@@ -1,0 +1,5 @@
+{
+  "name": "College Library Management System",
+  "description": "A comprehensive library management system for colleges, featuring book tracking, member management, issuing, and returns.",
+  "requestFramePermissions": []
+}
